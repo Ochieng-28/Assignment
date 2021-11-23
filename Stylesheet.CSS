@@ -41,3 +41,10 @@ img{ border-radius: 50%;
 .Less_Important{
   color: white
 }
+
+@media all and (min-width: 490px) {
+  
+  body{background-color:chartreuse;
+    color: burlywood
+  }
+}
