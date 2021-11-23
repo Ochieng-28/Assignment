@@ -42,9 +42,8 @@ img{ border-radius: 50%;
   color: white
 }
 
-@media all and (min-width: 490px) {
-  
-  body{background-color:chartreuse;
-    color: burlywood
+@media screen and (min-width: 240px) {
+  body{background-color: burlywood;
+    border: red;
   }
 }
