@@ -8,11 +8,13 @@ body{ background-color:burlywood;
     margin-left: 75px;
     Margin: auto;
   }
-nav{ background-color: orange
- margin-top: auto;
+
+nav{ background-color: blue
+   margin-top: auto;
 font-size: large;
 color: black;
 }
+
 h3{color: blue;
 text-shadow: blue;
 
