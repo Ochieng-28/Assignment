@@ -39,11 +39,11 @@ img{ border-radius: 50%;
 }
 
 .Less_Important{
-  color: white
+  color: green
 }
 
 @media screen and (min-width: 240px) {
-  body{background-color: burlywood;
-    border: red;
+  body{background-color: honeydew;
+    
   }
 }
